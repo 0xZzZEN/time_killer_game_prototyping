@@ -5,7 +5,7 @@
 
 # **Features:**
 
-<p>(WIP Q3-4 2026)</p>
+<p>(WIP)</p>
 
 # **Art Inspiration:**
 
