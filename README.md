@@ -1,5 +1,5 @@
 # Time Killer Minigame
-<p>This is going to be a prototype for an upcoming time-shooting minigame using Lua and the LOVE2D framework.</p>
+<p>This is going to be a demo prototype for an upcoming time-shooting minigame using Lua and the LOVE2D framework.</p>
 
 <p>I feel a bit stuck right now, because I lack knowledge in computer graphics, but at the end of the day I am going to reimplement the prototype and make a full game with C + OpenGL + SDL stack with less libraries as possible.</p>
 
